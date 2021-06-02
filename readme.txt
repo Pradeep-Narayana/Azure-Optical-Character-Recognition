@@ -1,4 +1,4 @@
-Project to read text from images using Microsoft Azure Computer Vision cognitive service.
+Project to read text from images using Microsoft Azure Computer Vision Cognitive Services.
 
 There are two APIs available in Azure Cognitive Services for reading text from images :
 	1. OCR API
